@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+.header {
+  justify-content: center; /* Centra el contenido horizontalmente */
+  align-items: center; /* Centra el contenido verticalmente */
+  display: flex;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+  gap: 20px;
+  position: fixed; /* Fija el elemento en la pantalla */
+  top: 0; /* Lo sitúa en la parte superior */
+  left: 0; /* Lo sitúa al inicio horizontal */
+  right: 0; /* Lo sitúa al final horizontal */
+  z-index: 1000; /* Opcional: para asegurar que esté sobre otros elementos */
+}
+
+.header-content{
+  width: 97%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  padding: 10px;
+  flex-wrap: wrap;
+  object-fit: contain;
+}
+.header-titu{
+  font-family: 'Lora', serif;
+  font-size: 29px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  object-fit: contain;
+}
+.herader-img{
+  width: 150px; /* Ancho de la imagen */
+  height: auto; /* Ajusta la altura automáticamente */
+  border-radius: 10px; /* Bordes redondeados */
+  object-fit: contain;
+}
