@@ -5,38 +5,38 @@ function Productos() {
         <div className='ConProducto'>
             <div className='Contec'>
                 <div className='Cuadros'>
-                    <img src={Pulceras} className='ImagenPro' />
+                    <img src={Pulceras} className='ImagenPro' alt="Producto destacado"/>
                     <div className='PrecioPro'>Pulsera Confia</div>
                     <div className='CantidadPro'>1000$</div>
                 </div>
                 <div className='Cuadros'>
-                    <img src={Pulceras} className='ImagenPro' />
+                    <img src={Pulceras} className='ImagenPro'alt="Producto destacado" />
                     <div className='PrecioPro'>Pulsera Confia</div>
                     <div className='CantidadPro'>1000$</div>
                 </div>
                 <div className='Cuadros'>
-                    <img src={Pulceras} className='ImagenPro' />
+                    <img src={Pulceras} className='ImagenPro'alt="Producto destacado" />
                     <div className='PrecioPro'>Pulsera Confia</div>
                     <div className='CantidadPro'>1000$</div>
                 </div>
                 
                 <div className='Cuadros'>
-                    <img src={Pulceras} className='ImagenPro' />
+                    <img src={Pulceras} className='ImagenPro' alt="Producto destacado"/>
                     <div className='PrecioPro'>Pulsera Confia</div>
                     <div className='CantidadPro'>1000$</div>
                 </div>
                 <div className='Cuadros'>
-                    <img src={Pulceras} className='ImagenPro' />
+                    <img src={Pulceras} className='ImagenPro' alt="Producto destacado"/>
                     <div className='PrecioPro'>Pulsera Confia</div>
                     <div className='CantidadPro'>1000$</div>
                 </div>
                 <div className='Cuadros'>
-                    <img src={Pulceras} className='ImagenPro' />
+                    <img src={Pulceras} className='ImagenPro'alt="Producto destacado" />
                     <div className='PrecioPro'>Pulsera Confia</div>
                     <div className='CantidadPro'>1000$</div>
                 </div>
                 <div className='Cuadros'>
-                    <img src={Pulceras} className='ImagenPro' />
+                    <img src={Pulceras} className='ImagenPro' alt="Producto destacado"/>
                     <div className='PrecioPro'>Pulsera Confia</div>
                     <div className='CantidadPro'>1000$</div>
                 </div>

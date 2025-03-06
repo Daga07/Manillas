@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className='header'>
         <div className='header-content'>
-        <img src={Heraderimg} className='herader-img' />
+        <img src={Heraderimg} className='herader-img' alt="Producto destacado"/>
         <h1 className='header-titu'> Manillas y accesosrios</h1>
         </div>
       </header>

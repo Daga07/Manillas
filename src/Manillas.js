@@ -4,7 +4,7 @@ function Manillas(){
 return(
 <div className='ContenedorMan'> 
     <div className='Titulo'> Manilla y accesosrios</div>
-    <img src={Pulceras} className='Imagen'/> 
+    <img src={Pulceras} className='Imagen' alt="Manilla artesanal" /> 
 </div>
 );
 
