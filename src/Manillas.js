@@ -3,7 +3,7 @@ import Pulceras from './Imagenes/pus.png';
 function Manillas(){
 return(
 <div className='ContenedorMan'> 
-    <div className='Titulo'> Manilla y accesosrios</div>
+    <div className='Titulo'> Manilla  sa y accesosrios</div>
     <img src={Pulceras} className='Imagen' alt="Manilla artesanal" /> 
 </div>
 );
